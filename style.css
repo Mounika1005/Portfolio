@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Abel';
+  font-family: 'Futara';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 100;
   src: url(../fonts/Abel.woff) format('woff');
 }
 body{
@@ -31,7 +31,7 @@ p{
 
 #name {
   font-family: 'Lobster';
-  font-weight: 400;
+  font-weight: 100;
   font-weight: bold;
 
 }
