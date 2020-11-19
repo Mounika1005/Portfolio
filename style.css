@@ -6,7 +6,7 @@
 }
 body{
 	margin:0;
-	font-family: 'Abel';
+	font-family: 'Futara';
 	background: #fff;
 }
 
@@ -23,7 +23,7 @@ body a{
 }
 h1,h2,h3,h4,h5,h6{
 	margin:0;
-	font-family: 'Abel';
+	font-family: 'Futara';
 }
 p{
 	margin:0;
@@ -68,7 +68,7 @@ body a:hover{
     padding-left: 3em;
 }
 .header-right h1 {
-    font-size: 2.5em;
+    font-size: 2.0em;
     color: #fff;
     margin: 0.5em 0 0;
 }
