@@ -526,14 +526,11 @@
 
 
 							<div class="contact-form">
-								<form action="https://formspree.io/f/xdopdjbe" method="post">
-									Your Name <input type="text" name="name"><br>
-									
-									Your Message <input type="text" name="message"><br>
-									
-									Email<input type="mail" name="_replyto"><br>
-									
-									<input type="submit" value="send">
+								<form id="send-messsage-form" action="https://formspree.io/f/xdopdjbe" method="post">
+									Your Name <input type="text" name="name">
+									Email<input type="mail" name="_replyto">
+									Your Message <input type="text" name="message"></textarea>									
+									<input type="submit" value="send"><span id="form-loading" class="hide"><img src="load.gif" /></span>
 								</form>
 								
 							</div>
